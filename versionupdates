@@ -1,0 +1,27 @@
+#AngularJS ----- released in 2010. 
+
+#Angular2 ----- released on September 14, 2016.
+
+#Angular4---- released on 23 March 2017.
+This version has some additional features:
+
+This version introduced HttpClient, a smaller, easier to use, and more powerful library for making HTTP Requests.
+It provides new router life cycle events for Guards and Resolvers.
+Four new events: GuardsCheckStart, GuardsCheckEnd, ResolveStart, ResolveEnd join the existing set of life cycle event such as NavigationStart.
+It provides the support of conditionally disable animations.
+
+#Angular5--- released on 1 Nov, 2017.
+It provided some improvements to support for progressive web apps, also provides improvements related to Material Design.
+
+#Angular6--- released on 4 may, 2018. 
+It was a major relaese which provides some features like: ng update, ng add, Angular Elements, Angular Material + CDK Components,
+Angular Material Starter Components, CLI Workspaces, Library Support, Tree Shakable Providers, Animations Performance Improvements, and RxJS v6.
+
+#Angular 7---- released on October 18, 2018. It consists of many extensive features:
+
+Updates regarding Application Performance
+Angular Material & CDK
+Virtual Scrolling
+Improved Accessibility of Selects
+Supports Content Projection using web standard for custom elements
+Dependency updates regarding TypeScript 3.1, RxJS 6.3, Node 10
